@@ -93,3 +93,5 @@ I'm driven by a profound passion for enabling farmers to sustainably meet the es
 I received my Bachelor of Science degree from Ohio State University, majoring in Computer Science and Engineering with a focus in Artificial Intelligence. My interests and course work included basic and advanced AI Techniques, Machine Learning and Statistical Pattern Recognition, and Neural Networks. 
 
 I started my Master's degree in August of 2022 as a Research Assistant with Fellowship at Purdue University in the school of Agricultural and Biological Engineering under Professor Somali Chaterji in her ICAN Lab. My current work includes mobile GPU resource optimization, optimal UAV (drone) deployment strategies for the tradeoff between detection quality, latency and area coverage, and cloud database optimization. We are focused on optimizing Machine Learning models at the edge for use in robotics systems.
+
+---
