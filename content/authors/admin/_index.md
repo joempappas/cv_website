@@ -50,7 +50,6 @@ education:
   - area: Masters Agricultural and Biological Engineering
     institution: Purdue University
     date_start: 2022-08-15
-    date_end: Present
     summary: |
       Courses focus on Machine Learning and Deep Learning
   - area: B.S. Computer Science and Engineering; Focus in Artificial Intelligence
@@ -78,7 +77,6 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2018-02-01
-    date_end: Present
     summary: |
       Responsibilities include:
       - Build custom implementations of the platform for current and prospective customers
