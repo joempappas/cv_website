@@ -13,5 +13,10 @@ publishDate: '2024-10-28T15:26:36.270517Z'
 publication_types:
 - paper-conference
 publication: '*Disruptive Technologies in Information Sciences VIII*'
-url-pdf: 'http://dx.doi.org/10.1117/12.3013781'
+
+links:
+  - name: 'Conference URL'
+  - url: 'http://dx.doi.org/10.1117/12.3013781' 
+
+url-pdf: 'https://schaterji.io/papers/adaptive-virtuoso.pdf'
 ---
