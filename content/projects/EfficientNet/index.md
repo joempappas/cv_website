@@ -1,7 +1,6 @@
 ---
 title: Exploration into Object Detection for Edge Devices
 date: 2022-12-01
-external_link: https://github.com/joempappas/efficientnet/blob/master
 tags:
   - Object Detection
   - Edge Computing
@@ -9,6 +8,9 @@ tags:
   - Computer Vision
 
 featured: true
+
+image:
+  caption: 'Comparison of my reimplementation of EfficientNet vs a custom architecture with scaling coefficients'
 
 button:
   text: View paper
