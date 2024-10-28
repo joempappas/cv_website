@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Joe_Pappas_CV_5_27.pdf
     design:
       css_class: dark
       background:
@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm driven by a profound passion for enabling farmers to sustainably meet the escalating demands of our rapidly expanding world. Specializing in machine learning, I am constantly exploring innovative avenues to synergize my expertise with this fervent commitment. I am looking for Robotics companies in the agriculture space to improve their Computer Vision subsystems.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I received my Bachelor of Science degree from Ohio State University, majoring in Computer Science and Engineering with a focus in Artificial Intelligence. My interests and course work included basic and advanced AI Techniques, Machine Learning and Statistical Pattern Recognition, and Neural Networks. 
+
+        I started my Master's degree in August of 2022 as a Research Assistant with Fellowship at Purdue University in the school of Agricultural and Biological Engineering under Professor Somali Chaterji in her ICAN Lab. My current work includes mobile GPU resource optimization, optimal UAV (drone) deployment strategies for the tradeoff between detection quality, latency and area coverage, and cloud database optimization. We are focused on optimizing Machine Learning models at the edge for use in robotics systems.
     design:
       columns: '1'
   - block: collection
@@ -70,40 +70,12 @@ sections:
       filters:
         folders:
           - event
+        featured_only: true
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-

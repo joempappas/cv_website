@@ -12,4 +12,6 @@ publication_types:
 - paper-conference
 publication: '*2023 19th International Conference on Distributed Computing in Smart
   Systems and the Internet of Things (DCOSS-IoT)*'
+
+url_pdf: 'https://par.nsf.gov/servlets/purl/10492609'
 ---
