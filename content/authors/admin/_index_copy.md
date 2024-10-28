@@ -129,10 +129,6 @@ languages:
   - name: Portuguese
     percent: 25
 
- Awards.
-   Add/remove as many awards below as you like.
-   Only `title`, `awarder`, and `date` are required.
-   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -160,11 +156,3 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
-## About Me
-
-I'm driven by a profound passion for enabling farmers to sustainably meet the escalating demands of our rapidly expanding world. Specializing in machine learning, I am constantly exploring innovative avenues to synergize my expertise with this fervent commitment. I am looking for Robotics companies in the agriculture space to improve their Computer Vision subsystems.
-
-I received my Bachelor of Science degree from Ohio State University, majoring in Computer Science and Engineering with a focus in Artificial Intelligence. My interests and course work included basic and advanced AI Techniques, Machine Learning and Statistical Pattern Recognition, and Neural Networks. 
-
-I started my Master's degree in August of 2022 as a Research Assistant with Fellowship at Purdue University in the school of Agricultural and Biological Engineering under Professor Somali Chaterji in her ICAN Lab. My current work includes mobile GPU resource optimization, optimal UAV (drone) deployment strategies for the tradeoff between detection quality, latency and area coverage, and cloud database optimization. We are focused on optimizing Machine Learning models at the edge for use in robotics systems.
