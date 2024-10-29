@@ -56,4 +56,4 @@ projects:
   - projects/virtuoso
 ---
 
-This is a talk I gave to the ARL executives explaining the idea we wanted to implement for the Perception team working with their Autonomous UGV code stack. 
+This is a talk I gave to the ARL executives explaining the idea we wanted to implement for the Perception team working with their Autonomous UGV code stack. To view the presentation, you can click the 'Video' link at the top of the page.

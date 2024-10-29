@@ -22,9 +22,5 @@ In this project, I gained experience in working with embedded devices and microc
 
 Showing the motion sensor in action:
 
-**Youtube**:
-
-    {{</* youtube TJYWRGgd62g */>}}
-
 {{< youtube TJYWRGgd62g >}}
 <!--more-->
