@@ -11,6 +11,7 @@ featured: true
 
 image:
   caption: 'Comparison of my reimplementation of EfficientNet vs a custom architecture with scaling coefficients'
+  preview_only: false
 
 button:
   text: View paper

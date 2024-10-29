@@ -11,6 +11,7 @@ tags:
 
 image:
   caption: 'Demonstration of an object detector with contention using high latency and low latency parameters. With contention and higher latency parameters, the detector will skip while running inference. The low latency parameters can keep latency low while maintaining an acceptable level of accuracy.'
+  preview_only: false
 
 featured: true
 

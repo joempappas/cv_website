@@ -9,6 +9,7 @@ tags:
 
 image:
   caption: 'Working with an ESP32 Featherboard'
+  preview_only: false
 
 featured: true
 
