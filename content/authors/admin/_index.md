@@ -65,18 +65,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Mountaineering (Climbed Mt. Rainier!)
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Snowboarding
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Athletic competition
+        description: 'Completed 2 Half Ironmans, 1 Marathon, and counting'
 
 education:
   - area: Masters Agricultural and Biological Engineering
