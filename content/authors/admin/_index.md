@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/joempappas
   - icon: brands/linkedin
-    url: https://www.linkedin.com/joempappas
+    url: https://www.linkedin.com/in/joempappas
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=VX7Q4x0AAAAJ
 
